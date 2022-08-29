@@ -14,5 +14,8 @@ ___
 
 * Markdown
 * TheTextarea
+___
+
+## Instalación de tailwind
 
 
